@@ -13,4 +13,4 @@ Then open the pdf and html files in the browser for full functionality of the pd
 3. Bipasana Shrestha: Project Report
 4. Shiksha Bhattarai: Project Report
 
-This report was made using $\latex\$.
+This report was made using $\LaTeX\$.
